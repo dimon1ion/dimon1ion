@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 Hi 👋 My name is Dmitriy
 ========================
 
+<!--
 Fullstack developer
 -------------------
-
+-->
 I started my programming activities back in 2020. I started studying it myself with C++ while studying at the university. After a while, I entered the academy, where the emphasis was on creating software. During my studies, I not only learned to write code, but also to think like a programmer. Now I'm focusing on the frontend, namely the $\text{\color{#61DBFB}React library}$. As for me, $\text{\color{#f0db4f}Javascript}$ frameworks and libraries combine the front end and some logic that I once wrote for console and server applications.
 
 *   🧠  I'm learning React & React Native
